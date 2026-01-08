@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "RP0001",
+    "title": "Experimental evaluation of quantum gravimeters #001",
+    "abstract": "We present a detailed study of quantum gravimeters with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2023,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_SENSING",
+    "subSubCategoryId": "QUANTUM_GRAVIMETERS"
+  },
+  {
+    "id": "RP0002",
+    "title": "Experimental evaluation of manoeuvring re\u2011entry vehicles #002",
+    "abstract": "We present a detailed study of manoeuvring re\u2011entry vehicles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2018,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "BALLISTIC_MISSILES",
+    "subSubCategoryId": "MARV"
+  },
+  {
+    "id": "RP0003",
+    "title": "Experimental evaluation of eod / ied disposal ugv #003",
+    "abstract": "We present a detailed study of eod / ied disposal ugv with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2014,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "UGV_GROUND_ROBOTS",
+    "subSubCategoryId": "EOD_UGV"
+  },
+  {
+    "id": "RP0004",
+    "title": "Experimental evaluation of spectrum monitoring systems #004",
+    "abstract": "We present a detailed study of spectrum monitoring systems with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2020,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "ELECTRONIC_SUPPORT",
+    "subSubCategoryId": "SPECTRUM_MONITORING"
+  },
+  {
+    "id": "RP0005",
+    "title": "Experimental evaluation of imaging infrared air\u2011to\u2011air missiles #005",
+    "abstract": "We present a detailed study of imaging infrared air\u2011to\u2011air missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2019,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "AIR_TO_AIR_MISSILES",
+    "subSubCategoryId": "IMAGING_IR_AAM"
+  },
+  {
+    "id": "RP0006",
+    "title": "Experimental evaluation of active radar homing air\u2011to\u2011air missiles #006",
+    "abstract": "We present a detailed study of active radar homing air\u2011to\u2011air missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2022,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "AIR_TO_AIR_MISSILES",
+    "subSubCategoryId": "ACTIVE_RADAR_HOMING_AAM"
+  },
+  {
+    "id": "RP0007",
+    "title": "Experimental evaluation of multispectral targeting pods #007",
+    "abstract": "We present a detailed study of multispectral targeting pods with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2013,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "EO_IR_SENSORS",
+    "subSubCategoryId": "MULTISPECTRAL_PODS"
+  },
+  {
+    "id": "RP0008",
+    "title": "Experimental evaluation of hyperspectral sensors #008",
+    "abstract": "We present a detailed study of hyperspectral sensors with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2025,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "EO_IR_SENSORS",
+    "subSubCategoryId": "HYPERSPECTRAL_SENSORS"
+  },
+  {
+    "id": "RP0009",
+    "title": "Experimental evaluation of defensive cyber platforms #009",
+    "abstract": "We present a detailed study of defensive cyber platforms with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2020,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "CYBER_SYSTEMS",
+    "subSubCategoryId": "DEFENSIVE_CYBER"
+  },
+  {
+    "id": "RP0010",
+    "title": "Experimental evaluation of multi\u2011sensor fusion engines #010",
+    "abstract": "We present a detailed study of multi\u2011sensor fusion engines with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2015,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "C4ISR_DEFENCE_AI",
+    "subCategoryId": "ISR_MULTI_SENSOR_FUSION",
+    "subSubCategoryId": "MULTI_SENSOR_FUSION_ENGINES"
+  },
+  {
+    "id": "RP0011",
+    "title": "Experimental evaluation of sensor anomaly detection ai #011",
+    "abstract": "We present a detailed study of sensor anomaly detection ai with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2025,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "C4ISR_DEFENCE_AI",
+    "subCategoryId": "DEFENCE_AI_ML",
+    "subSubCategoryId": "SENSOR_ANOMALY_DETECTION_AI"
+  },
+  {
+    "id": "RP0012",
+    "title": "Experimental evaluation of offensive cyber tools #012",
+    "abstract": "We present a detailed study of offensive cyber tools with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2016,
+    "venue": "IEEE Transactions on Aerospace",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "CYBER_SYSTEMS",
+    "subSubCategoryId": "OFFENSIVE_CYBER"
+  },
+  {
+    "id": "RP0013",
+    "title": "Experimental evaluation of logistics ugv #013",
+    "abstract": "We present a detailed study of logistics ugv with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2022,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "UGV_GROUND_ROBOTS",
+    "subSubCategoryId": "LOGISTICS_UGV"
+  },
+  {
+    "id": "RP0014",
+    "title": "Experimental evaluation of cargo / logistics uav #014",
+    "abstract": "We present a detailed study of cargo / logistics uav with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2022,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "UAV_DRONES",
+    "subSubCategoryId": "CARGO_UAV"
+  },
+  {
+    "id": "RP0015",
+    "title": "Experimental evaluation of quantum gyroscopes #015",
+    "abstract": "We present a detailed study of quantum gyroscopes with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2012,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_SENSING",
+    "subSubCategoryId": "QUANTUM_GYROSCOPES"
+  },
+  {
+    "id": "RP0016",
+    "title": "Experimental evaluation of wargaming / simulation ai #016",
+    "abstract": "We present a detailed study of wargaming / simulation ai with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2024,
+    "venue": "IEEE Transactions on Aerospace",
+    "mainCategoryId": "C4ISR_DEFENCE_AI",
+    "subCategoryId": "DEFENCE_AI_ML",
+    "subSubCategoryId": "WARGAMING_SIMULATION_AI"
+  },
+  {
+    "id": "RP0017",
+    "title": "Experimental evaluation of quantum magnetometers #017",
+    "abstract": "We present a detailed study of quantum magnetometers with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2013,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_SENSING",
+    "subSubCategoryId": "QUANTUM_MAGNETOMETERS"
+  },
+  {
+    "id": "RP0018",
+    "title": "Experimental evaluation of short\u2011range sam (shorad) #018",
+    "abstract": "We present a detailed study of short\u2011range sam (shorad) with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2022,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "SURFACE_TO_AIR_MISSILES",
+    "subSubCategoryId": "SHORAD"
+  },
+  {
+    "id": "RP0019",
+    "title": "Experimental evaluation of offensive cyber tools #019",
+    "abstract": "We present a detailed study of offensive cyber tools with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2012,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "CYBER_SYSTEMS",
+    "subSubCategoryId": "OFFENSIVE_CYBER"
+  },
+  {
+    "id": "RP0020",
+    "title": "Experimental evaluation of over\u2011the\u2011horizon radar #020",
+    "abstract": "We present a detailed study of over\u2011the\u2011horizon radar with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2021,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "RADAR_SYSTEMS",
+    "subSubCategoryId": "OTH_RADAR"
+  },
+  {
+    "id": "RP0021",
+    "title": "Experimental evaluation of target recognition systems #021",
+    "abstract": "We present a detailed study of target recognition systems with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2025,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "C4ISR_DEFENCE_AI",
+    "subCategoryId": "ISR_MULTI_SENSOR_FUSION",
+    "subSubCategoryId": "TARGET_RECOGNITION"
+  },
+  {
+    "id": "RP0022",
+    "title": "Experimental evaluation of passive rf sensors #022",
+    "abstract": "We present a detailed study of passive rf sensors with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2018,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "PASSIVE_SENSORS",
+    "subSubCategoryId": "PASSIVE_RF_SENSORS"
+  },
+  {
+    "id": "RP0023",
+    "title": "Experimental evaluation of anti\u2011jam communication systems #023",
+    "abstract": "We present a detailed study of anti\u2011jam communication systems with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2018,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "SPECTRUM_MANAGEMENT",
+    "subSubCategoryId": "ANTI_JAM_COMMS"
+  },
+  {
+    "id": "RP0024",
+    "title": "Experimental evaluation of elint signal collectors #024",
+    "abstract": "We present a detailed study of elint signal collectors with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2017,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "PASSIVE_SENSORS",
+    "subSubCategoryId": "ELINT_COLLECTORS"
+  },
+  {
+    "id": "RP0025",
+    "title": "Experimental evaluation of elint signal collectors #025",
+    "abstract": "We present a detailed study of elint signal collectors with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2022,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "PASSIVE_SENSORS",
+    "subSubCategoryId": "ELINT_COLLECTORS"
+  },
+  {
+    "id": "RP0026",
+    "title": "Experimental evaluation of signal interception systems #026",
+    "abstract": "We present a detailed study of signal interception systems with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2024,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "ELECTRONIC_SUPPORT",
+    "subSubCategoryId": "SIGNAL_INTERCEPTION"
+  },
+  {
+    "id": "RP0027",
+    "title": "Experimental evaluation of counter\u2011stealth radar #027",
+    "abstract": "We present a detailed study of counter\u2011stealth radar with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2013,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "RADAR_SYSTEMS",
+    "subSubCategoryId": "COUNTER_STEALTH_RADAR"
+  },
+  {
+    "id": "RP0028",
+    "title": "Experimental evaluation of multispectral targeting pods #028",
+    "abstract": "We present a detailed study of multispectral targeting pods with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2020,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "EO_IR_SENSORS",
+    "subSubCategoryId": "MULTISPECTRAL_PODS"
+  },
+  {
+    "id": "RP0029",
+    "title": "Experimental evaluation of thermal imaging sensors #029",
+    "abstract": "We present a detailed study of thermal imaging sensors with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2023,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "EO_IR_SENSORS",
+    "subSubCategoryId": "THERMAL_IMAGERS"
+  },
+  {
+    "id": "RP0030",
+    "title": "Experimental evaluation of offensive cyber tools #030",
+    "abstract": "We present a detailed study of offensive cyber tools with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2015,
+    "venue": "IEEE Transactions on Aerospace",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "CYBER_SYSTEMS",
+    "subSubCategoryId": "OFFENSIVE_CYBER"
+  },
+  {
+    "id": "RP0031",
+    "title": "Experimental evaluation of logistics ugv #031",
+    "abstract": "We present a detailed study of logistics ugv with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2018,
+    "venue": "IEEE Transactions on Aerospace",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "UGV_GROUND_ROBOTS",
+    "subSubCategoryId": "LOGISTICS_UGV"
+  },
+  {
+    "id": "RP0032",
+    "title": "Experimental evaluation of spectrum monitoring systems #032",
+    "abstract": "We present a detailed study of spectrum monitoring systems with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2012,
+    "venue": "IEEE Transactions on Aerospace",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "ELECTRONIC_SUPPORT",
+    "subSubCategoryId": "SPECTRUM_MONITORING"
+  },
+  {
+    "id": "RP0033",
+    "title": "Experimental evaluation of land\u2011attack cruise missiles #033",
+    "abstract": "We present a detailed study of land\u2011attack cruise missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2013,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "CRUISE_MISSILES",
+    "subSubCategoryId": "LAND_ATTACK_CRUISE"
+  },
+  {
+    "id": "RP0034",
+    "title": "Experimental evaluation of autonomy & path planning ai #034",
+    "abstract": "We present a detailed study of autonomy & path planning ai with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2018,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "C4ISR_DEFENCE_AI",
+    "subCategoryId": "DEFENCE_AI_ML",
+    "subSubCategoryId": "AUTONOMY_PATH_PLANNING_AI"
+  },
+  {
+    "id": "RP0035",
+    "title": "Experimental evaluation of naval multi\u2011function radar #035",
+    "abstract": "We present a detailed study of naval multi\u2011function radar with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2023,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "RADAR_SYSTEMS",
+    "subSubCategoryId": "NAVAL_MF_RADAR"
+  },
+  {
+    "id": "RP0036",
+    "title": "Experimental evaluation of wargaming / simulation ai #036",
+    "abstract": "We present a detailed study of wargaming / simulation ai with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2012,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "C4ISR_DEFENCE_AI",
+    "subCategoryId": "DEFENCE_AI_ML",
+    "subSubCategoryId": "WARGAMING_SIMULATION_AI"
+  },
+  {
+    "id": "RP0037",
+    "title": "Experimental evaluation of short\u2011range sam (shorad) #037",
+    "abstract": "We present a detailed study of short\u2011range sam (shorad) with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2019,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "SURFACE_TO_AIR_MISSILES",
+    "subSubCategoryId": "SHORAD"
+  },
+  {
+    "id": "RP0038",
+    "title": "Experimental evaluation of hypersonic cruise missiles #038",
+    "abstract": "We present a detailed study of hypersonic cruise missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2025,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "HYPERSONIC_WEAPONS",
+    "subSubCategoryId": "HYPERSONIC_CRUISE"
+  },
+  {
+    "id": "RP0039",
+    "title": "Experimental evaluation of stealth uav #039",
+    "abstract": "We present a detailed study of stealth uav with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2023,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "UAV_DRONES",
+    "subSubCategoryId": "STEALTH_UAV"
+  },
+  {
+    "id": "RP0040",
+    "title": "Experimental evaluation of anti\u2011ship cruise missiles #040",
+    "abstract": "We present a detailed study of anti\u2011ship cruise missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2012,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "CRUISE_MISSILES",
+    "subSubCategoryId": "ANTI_SHIP_CRUISE"
+  },
+  {
+    "id": "RP0041",
+    "title": "Experimental evaluation of sensor anomaly detection ai #041",
+    "abstract": "We present a detailed study of sensor anomaly detection ai with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2021,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "C4ISR_DEFENCE_AI",
+    "subCategoryId": "DEFENCE_AI_ML",
+    "subSubCategoryId": "SENSOR_ANOMALY_DETECTION_AI"
+  },
+  {
+    "id": "RP0042",
+    "title": "Experimental evaluation of thermal imaging sensors #042",
+    "abstract": "We present a detailed study of thermal imaging sensors with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2017,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "EO_IR_SENSORS",
+    "subSubCategoryId": "THERMAL_IMAGERS"
+  },
+  {
+    "id": "RP0043",
+    "title": "Experimental evaluation of quantum simulation for materials & weapons #043",
+    "abstract": "We present a detailed study of quantum simulation for materials & weapons with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2012,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_COMPUTING",
+    "subSubCategoryId": "QUANTUM_SIMULATION"
+  },
+  {
+    "id": "RP0044",
+    "title": "Experimental evaluation of spectrum monitoring systems #044",
+    "abstract": "We present a detailed study of spectrum monitoring systems with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2022,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "ELECTRONIC_SUPPORT",
+    "subSubCategoryId": "SPECTRUM_MONITORING"
+  },
+  {
+    "id": "RP0045",
+    "title": "Experimental evaluation of long\u2011endurance uav (male/hale) #045",
+    "abstract": "We present a detailed study of long\u2011endurance uav (male/hale) with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2017,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "UAV_DRONES",
+    "subSubCategoryId": "LONG_ENDURANCE_UAV"
+  },
+  {
+    "id": "RP0046",
+    "title": "Experimental evaluation of short\u2011range ballistic missiles #046",
+    "abstract": "We present a detailed study of short\u2011range ballistic missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2025,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "BALLISTIC_MISSILES",
+    "subSubCategoryId": "SRBM"
+  },
+  {
+    "id": "RP0047",
+    "title": "Experimental evaluation of critical infrastructure ics security #047",
+    "abstract": "We present a detailed study of critical infrastructure ics security with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2013,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "CYBER_SYSTEMS",
+    "subSubCategoryId": "ICS_SECURITY"
+  },
+  {
+    "id": "RP0048",
+    "title": "Experimental evaluation of multi\u2011sensor fusion engines #048",
+    "abstract": "We present a detailed study of multi\u2011sensor fusion engines with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2018,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "C4ISR_DEFENCE_AI",
+    "subCategoryId": "ISR_MULTI_SENSOR_FUSION",
+    "subSubCategoryId": "MULTI_SENSOR_FUSION_ENGINES"
+  },
+  {
+    "id": "RP0049",
+    "title": "Experimental evaluation of mine\u2011countermeasure unmanned systems #049",
+    "abstract": "We present a detailed study of mine\u2011countermeasure unmanned systems with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2019,
+    "venue": "IEEE Transactions on Aerospace",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "USV_UUV",
+    "subSubCategoryId": "MCM_UNMANNED"
+  },
+  {
+    "id": "RP0050",
+    "title": "Experimental evaluation of ground\u2011based air defence radar #050",
+    "abstract": "We present a detailed study of ground\u2011based air defence radar with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2013,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "RADAR_SYSTEMS",
+    "subSubCategoryId": "GROUND_AD_RADAR"
+  },
+  {
+    "id": "RP0051",
+    "title": "Experimental evaluation of quantum cryptanalysis and pqc impact #051",
+    "abstract": "We present a detailed study of quantum cryptanalysis and pqc impact with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2013,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_COMPUTING",
+    "subSubCategoryId": "QUANTUM_CRYPTANALYSIS"
+  },
+  {
+    "id": "RP0052",
+    "title": "Experimental evaluation of air\u2011launched cruise missiles #052",
+    "abstract": "We present a detailed study of air\u2011launched cruise missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2012,
+    "venue": "IEEE Transactions on Aerospace",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "CRUISE_MISSILES",
+    "subSubCategoryId": "AIR_LAUNCHED_CRUISE"
+  },
+  {
+    "id": "RP0053",
+    "title": "Experimental evaluation of mine\u2011countermeasure unmanned systems #053",
+    "abstract": "We present a detailed study of mine\u2011countermeasure unmanned systems with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2015,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "USV_UUV",
+    "subSubCategoryId": "MCM_UNMANNED"
+  },
+  {
+    "id": "RP0054",
+    "title": "Experimental evaluation of within\u2011visual\u2011range air\u2011to\u2011air missiles #054",
+    "abstract": "We present a detailed study of within\u2011visual\u2011range air\u2011to\u2011air missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2020,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "AIR_TO_AIR_MISSILES",
+    "subSubCategoryId": "WVR_AAM"
+  },
+  {
+    "id": "RP0055",
+    "title": "Experimental evaluation of signal interception systems #055",
+    "abstract": "We present a detailed study of signal interception systems with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2024,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "ELECTRONIC_SUPPORT",
+    "subSubCategoryId": "SIGNAL_INTERCEPTION"
+  },
+  {
+    "id": "RP0056",
+    "title": "Experimental evaluation of naval multi\u2011function radar #056",
+    "abstract": "We present a detailed study of naval multi\u2011function radar with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2024,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "RADAR_SYSTEMS",
+    "subSubCategoryId": "NAVAL_MF_RADAR"
+  },
+  {
+    "id": "RP0057",
+    "title": "Experimental evaluation of offensive cyber tools #057",
+    "abstract": "We present a detailed study of offensive cyber tools with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2019,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "CYBER_SYSTEMS",
+    "subSubCategoryId": "OFFENSIVE_CYBER"
+  },
+  {
+    "id": "RP0058",
+    "title": "Experimental evaluation of radar jammers #058",
+    "abstract": "We present a detailed study of radar jammers with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2015,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "ELECTRONIC_ATTACK",
+    "subSubCategoryId": "RADAR_JAMMERS"
+  },
+  {
+    "id": "RP0059",
+    "title": "Experimental evaluation of malware / exploit frameworks #059",
+    "abstract": "We present a detailed study of malware / exploit frameworks with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2015,
+    "venue": "IEEE Transactions on Aerospace",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "CYBER_SYSTEMS",
+    "subSubCategoryId": "MALWARE_FRAMEWORKS"
+  },
+  {
+    "id": "RP0060",
+    "title": "Experimental evaluation of quantum gravimeters #060",
+    "abstract": "We present a detailed study of quantum gravimeters with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2022,
+    "venue": "IEEE Transactions on Aerospace",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_SENSING",
+    "subSubCategoryId": "QUANTUM_GRAVIMETERS"
+  },
+  {
+    "id": "RP0061",
+    "title": "Experimental evaluation of imaging infrared air\u2011to\u2011air missiles #061",
+    "abstract": "We present a detailed study of imaging infrared air\u2011to\u2011air missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2021,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "AIR_TO_AIR_MISSILES",
+    "subSubCategoryId": "IMAGING_IR_AAM"
+  },
+  {
+    "id": "RP0062",
+    "title": "Experimental evaluation of quantum radar / quantum illumination #062",
+    "abstract": "We present a detailed study of quantum radar / quantum illumination with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2016,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_SENSING",
+    "subSubCategoryId": "QUANTUM_RADAR"
+  },
+  {
+    "id": "RP0063",
+    "title": "Experimental evaluation of vtol / multirotor uav #063",
+    "abstract": "We present a detailed study of vtol / multirotor uav with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2024,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "UAV_DRONES",
+    "subSubCategoryId": "VTOL_UAV"
+  },
+  {
+    "id": "RP0064",
+    "title": "Experimental evaluation of remotely operated vehicles (rov) #064",
+    "abstract": "We present a detailed study of remotely operated vehicles (rov) with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2024,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "USV_UUV",
+    "subSubCategoryId": "ROV"
+  },
+  {
+    "id": "RP0065",
+    "title": "Experimental evaluation of integrated air defence c2 #065",
+    "abstract": "We present a detailed study of integrated air defence c2 with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2012,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "C4ISR_DEFENCE_AI",
+    "subCategoryId": "BATTLE_MANAGEMENT_SYSTEMS",
+    "subSubCategoryId": "INTEGRATED_AD_C2"
+  },
+  {
+    "id": "RP0066",
+    "title": "Experimental evaluation of loitering munitions #066",
+    "abstract": "We present a detailed study of loitering munitions with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2014,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "UAV_DRONES",
+    "subSubCategoryId": "LOITERING_MUNITIONS"
+  },
+  {
+    "id": "RP0067",
+    "title": "Experimental evaluation of imaging infrared air\u2011to\u2011air missiles #067",
+    "abstract": "We present a detailed study of imaging infrared air\u2011to\u2011air missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2016,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "AIR_TO_AIR_MISSILES",
+    "subSubCategoryId": "IMAGING_IR_AAM"
+  },
+  {
+    "id": "RP0068",
+    "title": "Experimental evaluation of logistics ugv #068",
+    "abstract": "We present a detailed study of logistics ugv with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2025,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "UGV_GROUND_ROBOTS",
+    "subSubCategoryId": "LOGISTICS_UGV"
+  },
+  {
+    "id": "RP0069",
+    "title": "Experimental evaluation of logistics ugv #069",
+    "abstract": "We present a detailed study of logistics ugv with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2013,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "UGV_GROUND_ROBOTS",
+    "subSubCategoryId": "LOGISTICS_UGV"
+  },
+  {
+    "id": "RP0070",
+    "title": "Experimental evaluation of eod / ied disposal ugv #070",
+    "abstract": "We present a detailed study of eod / ied disposal ugv with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2021,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "UGV_GROUND_ROBOTS",
+    "subSubCategoryId": "EOD_UGV"
+  },
+  {
+    "id": "RP0071",
+    "title": "Experimental evaluation of flir systems #071",
+    "abstract": "We present a detailed study of flir systems with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2016,
+    "venue": "IEEE Transactions on Aerospace",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "EO_IR_SENSORS",
+    "subSubCategoryId": "FLIR_SYSTEMS"
+  },
+  {
+    "id": "RP0072",
+    "title": "Experimental evaluation of adaptive frequency hopping networks #072",
+    "abstract": "We present a detailed study of adaptive frequency hopping networks with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2015,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "SPECTRUM_MANAGEMENT",
+    "subSubCategoryId": "ADAPTIVE_FREQ_HOPPING"
+  },
+  {
+    "id": "RP0073",
+    "title": "Experimental evaluation of unmanned surface vessels (usv) #073",
+    "abstract": "We present a detailed study of unmanned surface vessels (usv) with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2022,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "USV_UUV",
+    "subSubCategoryId": "USV"
+  },
+  {
+    "id": "RP0074",
+    "title": "Experimental evaluation of naval multi\u2011function radar #074",
+    "abstract": "We present a detailed study of naval multi\u2011function radar with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2020,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "RADAR_SYSTEMS",
+    "subSubCategoryId": "NAVAL_MF_RADAR"
+  },
+  {
+    "id": "RP0075",
+    "title": "Experimental evaluation of air\u2011launched cruise missiles #075",
+    "abstract": "We present a detailed study of air\u2011launched cruise missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2023,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "CRUISE_MISSILES",
+    "subSubCategoryId": "AIR_LAUNCHED_CRUISE"
+  },
+  {
+    "id": "RP0076",
+    "title": "Experimental evaluation of quantum machine learning algorithms #076",
+    "abstract": "We present a detailed study of quantum machine learning algorithms with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2016,
+    "venue": "IEEE Transactions on Aerospace",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_COMPUTING",
+    "subSubCategoryId": "QUANTUM_ML"
+  },
+  {
+    "id": "RP0077",
+    "title": "Experimental evaluation of naval multi\u2011function radar #077",
+    "abstract": "We present a detailed study of naval multi\u2011function radar with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2017,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "RADAR_SYSTEMS",
+    "subSubCategoryId": "NAVAL_MF_RADAR"
+  },
+  {
+    "id": "RP0078",
+    "title": "Experimental evaluation of short\u2011range ballistic missiles #078",
+    "abstract": "We present a detailed study of short\u2011range ballistic missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2016,
+    "venue": "IEEE Transactions on Aerospace",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "BALLISTIC_MISSILES",
+    "subSubCategoryId": "SRBM"
+  },
+  {
+    "id": "RP0079",
+    "title": "Experimental evaluation of naval multi\u2011function radar #079",
+    "abstract": "We present a detailed study of naval multi\u2011function radar with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2019,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "RADAR_SYSTEMS",
+    "subSubCategoryId": "NAVAL_MF_RADAR"
+  },
+  {
+    "id": "RP0080",
+    "title": "Experimental evaluation of quantum gyroscopes #080",
+    "abstract": "We present a detailed study of quantum gyroscopes with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2016,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_SENSING",
+    "subSubCategoryId": "QUANTUM_GYROSCOPES"
+  },
+  {
+    "id": "RP0081",
+    "title": "Experimental evaluation of elint signal collectors #081",
+    "abstract": "We present a detailed study of elint signal collectors with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2016,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "PASSIVE_SENSORS",
+    "subSubCategoryId": "ELINT_COLLECTORS"
+  },
+  {
+    "id": "RP0082",
+    "title": "Experimental evaluation of free\u2011space qkd #082",
+    "abstract": "We present a detailed study of free\u2011space qkd with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2017,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_COMMUNICATION",
+    "subSubCategoryId": "FREE_SPACE_QKD"
+  },
+  {
+    "id": "RP0083",
+    "title": "Experimental evaluation of free\u2011space qkd #083",
+    "abstract": "We present a detailed study of free\u2011space qkd with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2020,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_COMMUNICATION",
+    "subSubCategoryId": "FREE_SPACE_QKD"
+  },
+  {
+    "id": "RP0084",
+    "title": "Experimental evaluation of quantum radar / quantum illumination #084",
+    "abstract": "We present a detailed study of quantum radar / quantum illumination with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2021,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_SENSING",
+    "subSubCategoryId": "QUANTUM_RADAR"
+  },
+  {
+    "id": "RP0085",
+    "title": "Experimental evaluation of manoeuvring re\u2011entry vehicles #085",
+    "abstract": "We present a detailed study of manoeuvring re\u2011entry vehicles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2013,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "BALLISTIC_MISSILES",
+    "subSubCategoryId": "MARV"
+  },
+  {
+    "id": "RP0086",
+    "title": "Experimental evaluation of quantum optimisation for logistics / routing #086",
+    "abstract": "We present a detailed study of quantum optimisation for logistics / routing with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2017,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_COMPUTING",
+    "subSubCategoryId": "QUANTUM_OPTIMISATION"
+  },
+  {
+    "id": "RP0087",
+    "title": "Experimental evaluation of short\u2011range sam (shorad) #087",
+    "abstract": "We present a detailed study of short\u2011range sam (shorad) with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2015,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "SURFACE_TO_AIR_MISSILES",
+    "subSubCategoryId": "SHORAD"
+  },
+  {
+    "id": "RP0088",
+    "title": "Experimental evaluation of radar jammers #088",
+    "abstract": "We present a detailed study of radar jammers with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2024,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "ELECTRONIC_ATTACK",
+    "subSubCategoryId": "RADAR_JAMMERS"
+  },
+  {
+    "id": "RP0089",
+    "title": "Experimental evaluation of beyond\u2011visual\u2011range air\u2011to\u2011air missiles #089",
+    "abstract": "We present a detailed study of beyond\u2011visual\u2011range air\u2011to\u2011air missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2014,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "AIR_TO_AIR_MISSILES",
+    "subSubCategoryId": "BVR_AAM"
+  },
+  {
+    "id": "RP0090",
+    "title": "Experimental evaluation of combat ugv #090",
+    "abstract": "We present a detailed study of combat ugv with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2022,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "UGV_GROUND_ROBOTS",
+    "subSubCategoryId": "COMBAT_UGV"
+  },
+  {
+    "id": "RP0091",
+    "title": "Experimental evaluation of mine\u2011countermeasure unmanned systems #091",
+    "abstract": "We present a detailed study of mine\u2011countermeasure unmanned systems with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2013,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "USV_UUV",
+    "subSubCategoryId": "MCM_UNMANNED"
+  },
+  {
+    "id": "RP0092",
+    "title": "Experimental evaluation of malware / exploit frameworks #092",
+    "abstract": "We present a detailed study of malware / exploit frameworks with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2020,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "CYBER_SYSTEMS",
+    "subSubCategoryId": "MALWARE_FRAMEWORKS"
+  },
+  {
+    "id": "RP0093",
+    "title": "Experimental evaluation of imaging infrared air\u2011to\u2011air missiles #093",
+    "abstract": "We present a detailed study of imaging infrared air\u2011to\u2011air missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2020,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "AIR_TO_AIR_MISSILES",
+    "subSubCategoryId": "IMAGING_IR_AAM"
+  },
+  {
+    "id": "RP0094",
+    "title": "Experimental evaluation of radar warning receivers #094",
+    "abstract": "We present a detailed study of radar warning receivers with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2013,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "ELECTRONIC_SUPPORT",
+    "subSubCategoryId": "RWR"
+  },
+  {
+    "id": "RP0095",
+    "title": "Experimental evaluation of autonomous underwater vehicles (auv) #095",
+    "abstract": "We present a detailed study of autonomous underwater vehicles (auv) with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2012,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "USV_UUV",
+    "subSubCategoryId": "AUV"
+  },
+  {
+    "id": "RP0096",
+    "title": "Experimental evaluation of integrated air defence c2 #096",
+    "abstract": "We present a detailed study of integrated air defence c2 with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2019,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "C4ISR_DEFENCE_AI",
+    "subCategoryId": "BATTLE_MANAGEMENT_SYSTEMS",
+    "subSubCategoryId": "INTEGRATED_AD_C2"
+  },
+  {
+    "id": "RP0097",
+    "title": "Experimental evaluation of quantum radar / quantum illumination #097",
+    "abstract": "We present a detailed study of quantum radar / quantum illumination with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2024,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_SENSING",
+    "subSubCategoryId": "QUANTUM_RADAR"
+  },
+  {
+    "id": "RP0098",
+    "title": "Experimental evaluation of thermal imaging sensors #098",
+    "abstract": "We present a detailed study of thermal imaging sensors with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2017,
+    "venue": "IEEE Transactions on Aerospace",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "EO_IR_SENSORS",
+    "subSubCategoryId": "THERMAL_IMAGERS"
+  },
+  {
+    "id": "RP0099",
+    "title": "Experimental evaluation of cognitive radios #099",
+    "abstract": "We present a detailed study of cognitive radios with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2022,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "SPECTRUM_MANAGEMENT",
+    "subSubCategoryId": "COGNITIVE_RADIOS"
+  },
+  {
+    "id": "RP0100",
+    "title": "Experimental evaluation of acoustic sensor networks #100",
+    "abstract": "We present a detailed study of acoustic sensor networks with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2020,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "PASSIVE_SENSORS",
+    "subSubCategoryId": "ACOUSTIC_NETWORKS"
+  },
+  {
+    "id": "RP0101",
+    "title": "Experimental evaluation of quantum secure networking #101",
+    "abstract": "We present a detailed study of quantum secure networking with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2024,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_COMMUNICATION",
+    "subSubCategoryId": "QUANTUM_SECURE_NETWORKING"
+  },
+  {
+    "id": "RP0102",
+    "title": "Experimental evaluation of acoustic sensor networks #102",
+    "abstract": "We present a detailed study of acoustic sensor networks with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2022,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "PASSIVE_SENSORS",
+    "subSubCategoryId": "ACOUSTIC_NETWORKS"
+  },
+  {
+    "id": "RP0103",
+    "title": "Experimental evaluation of free\u2011space qkd #103",
+    "abstract": "We present a detailed study of free\u2011space qkd with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2025,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_COMMUNICATION",
+    "subSubCategoryId": "FREE_SPACE_QKD"
+  },
+  {
+    "id": "RP0104",
+    "title": "Experimental evaluation of subsonic cruise missiles #104",
+    "abstract": "We present a detailed study of subsonic cruise missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2014,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "CRUISE_MISSILES",
+    "subSubCategoryId": "SUBSONIC_CRUISE"
+  },
+  {
+    "id": "RP0105",
+    "title": "Experimental evaluation of satellite\u2011based qkd #105",
+    "abstract": "We present a detailed study of satellite\u2011based qkd with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2013,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_COMMUNICATION",
+    "subSubCategoryId": "SATELLITE_QKD"
+  },
+  {
+    "id": "RP0106",
+    "title": "Experimental evaluation of remotely operated vehicles (rov) #106",
+    "abstract": "We present a detailed study of remotely operated vehicles (rov) with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2019,
+    "venue": "IEEE Transactions on Aerospace",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "USV_UUV",
+    "subSubCategoryId": "ROV"
+  },
+  {
+    "id": "RP0107",
+    "title": "Experimental evaluation of high\u2011power microwave systems #107",
+    "abstract": "We present a detailed study of high\u2011power microwave systems with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2013,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "ELECTRONIC_ATTACK",
+    "subSubCategoryId": "HPM_SYSTEMS"
+  },
+  {
+    "id": "RP0108",
+    "title": "Experimental evaluation of naval multi\u2011function radar #108",
+    "abstract": "We present a detailed study of naval multi\u2011function radar with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2020,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "RADAR_SYSTEMS",
+    "subSubCategoryId": "NAVAL_MF_RADAR"
+  },
+  {
+    "id": "RP0109",
+    "title": "Experimental evaluation of communication jammers #109",
+    "abstract": "We present a detailed study of communication jammers with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2021,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "ELECTRONIC_ATTACK",
+    "subSubCategoryId": "COMM_JAMMERS"
+  },
+  {
+    "id": "RP0110",
+    "title": "Experimental evaluation of loitering munitions #110",
+    "abstract": "We present a detailed study of loitering munitions with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2019,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "UAV_DRONES",
+    "subSubCategoryId": "LOITERING_MUNITIONS"
+  },
+  {
+    "id": "RP0111",
+    "title": "Experimental evaluation of anti\u2011jam communication systems #111",
+    "abstract": "We present a detailed study of anti\u2011jam communication systems with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2020,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "SPECTRUM_MANAGEMENT",
+    "subSubCategoryId": "ANTI_JAM_COMMS"
+  },
+  {
+    "id": "RP0112",
+    "title": "Experimental evaluation of acoustic sensor networks #112",
+    "abstract": "We present a detailed study of acoustic sensor networks with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2016,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "PASSIVE_SENSORS",
+    "subSubCategoryId": "ACOUSTIC_NETWORKS"
+  },
+  {
+    "id": "RP0113",
+    "title": "Experimental evaluation of elint signal collectors #113",
+    "abstract": "We present a detailed study of elint signal collectors with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2025,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "PASSIVE_SENSORS",
+    "subSubCategoryId": "ELINT_COLLECTORS"
+  },
+  {
+    "id": "RP0114",
+    "title": "Experimental evaluation of unmanned surface vessels (usv) #114",
+    "abstract": "We present a detailed study of unmanned surface vessels (usv) with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2014,
+    "venue": "IEEE Transactions on Aerospace",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "USV_UUV",
+    "subSubCategoryId": "USV"
+  },
+  {
+    "id": "RP0115",
+    "title": "Experimental evaluation of acoustic sensor networks #115",
+    "abstract": "We present a detailed study of acoustic sensor networks with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2025,
+    "venue": "IEEE Transactions on Aerospace",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "PASSIVE_SENSORS",
+    "subSubCategoryId": "ACOUSTIC_NETWORKS"
+  },
+  {
+    "id": "RP0116",
+    "title": "Experimental evaluation of autonomous underwater vehicles (auv) #116",
+    "abstract": "We present a detailed study of autonomous underwater vehicles (auv) with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2024,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "USV_UUV",
+    "subSubCategoryId": "AUV"
+  },
+  {
+    "id": "RP0117",
+    "title": "Experimental evaluation of ballistic missile defence interceptors #117",
+    "abstract": "We present a detailed study of ballistic missile defence interceptors with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2022,
+    "venue": "IEEE Transactions on Aerospace",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "SURFACE_TO_AIR_MISSILES",
+    "subSubCategoryId": "BMD_INTERCEPTORS"
+  },
+  {
+    "id": "RP0118",
+    "title": "Experimental evaluation of subsonic cruise missiles #118",
+    "abstract": "We present a detailed study of subsonic cruise missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2015,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "CRUISE_MISSILES",
+    "subSubCategoryId": "SUBSONIC_CRUISE"
+  },
+  {
+    "id": "RP0119",
+    "title": "Experimental evaluation of acoustic sensor networks #119",
+    "abstract": "We present a detailed study of acoustic sensor networks with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2019,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "PASSIVE_SENSORS",
+    "subSubCategoryId": "ACOUSTIC_NETWORKS"
+  },
+  {
+    "id": "RP0120",
+    "title": "Experimental evaluation of autonomous underwater vehicles (auv) #120",
+    "abstract": "We present a detailed study of autonomous underwater vehicles (auv) with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2014,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "USV_UUV",
+    "subSubCategoryId": "AUV"
+  },
+  {
+    "id": "RP0121",
+    "title": "Experimental evaluation of high\u2011power microwave systems #121",
+    "abstract": "We present a detailed study of high\u2011power microwave systems with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2013,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "ELECTRONIC_ATTACK",
+    "subSubCategoryId": "HPM_SYSTEMS"
+  },
+  {
+    "id": "RP0122",
+    "title": "Experimental evaluation of quantum gravimeters #122",
+    "abstract": "We present a detailed study of quantum gravimeters with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2019,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_SENSING",
+    "subSubCategoryId": "QUANTUM_GRAVIMETERS"
+  },
+  {
+    "id": "RP0123",
+    "title": "Experimental evaluation of ground\u2011based air defence radar #123",
+    "abstract": "We present a detailed study of ground\u2011based air defence radar with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2013,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "RADAR_SYSTEMS",
+    "subSubCategoryId": "GROUND_AD_RADAR"
+  },
+  {
+    "id": "RP0124",
+    "title": "Experimental evaluation of medium\u2011range surface\u2011to\u2011air missiles #124",
+    "abstract": "We present a detailed study of medium\u2011range surface\u2011to\u2011air missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2020,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "SURFACE_TO_AIR_MISSILES",
+    "subSubCategoryId": "MEDIUM_RANGE_SAM"
+  },
+  {
+    "id": "RP0125",
+    "title": "Experimental evaluation of counter\u2011stealth radar #125",
+    "abstract": "We present a detailed study of counter\u2011stealth radar with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2022,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "RADAR_SYSTEMS",
+    "subSubCategoryId": "COUNTER_STEALTH_RADAR"
+  },
+  {
+    "id": "RP0126",
+    "title": "Experimental evaluation of malware / exploit frameworks #126",
+    "abstract": "We present a detailed study of malware / exploit frameworks with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2019,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "CYBER_SYSTEMS",
+    "subSubCategoryId": "MALWARE_FRAMEWORKS"
+  },
+  {
+    "id": "RP0127",
+    "title": "Experimental evaluation of gps spoofing & jamming #127",
+    "abstract": "We present a detailed study of gps spoofing & jamming with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2014,
+    "venue": "IEEE Transactions on Aerospace",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "ELECTRONIC_ATTACK",
+    "subSubCategoryId": "GPS_SPOOFING_JAMMING"
+  },
+  {
+    "id": "RP0128",
+    "title": "Experimental evaluation of subsonic cruise missiles #128",
+    "abstract": "We present a detailed study of subsonic cruise missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2025,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "CRUISE_MISSILES",
+    "subSubCategoryId": "SUBSONIC_CRUISE"
+  },
+  {
+    "id": "RP0129",
+    "title": "Experimental evaluation of malware / exploit frameworks #129",
+    "abstract": "We present a detailed study of malware / exploit frameworks with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2013,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "CYBER_SYSTEMS",
+    "subSubCategoryId": "MALWARE_FRAMEWORKS"
+  },
+  {
+    "id": "RP0130",
+    "title": "Experimental evaluation of long\u2011endurance uav (male/hale) #130",
+    "abstract": "We present a detailed study of long\u2011endurance uav (male/hale) with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2023,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "UAV_DRONES",
+    "subSubCategoryId": "LONG_ENDURANCE_UAV"
+  },
+  {
+    "id": "RP0131",
+    "title": "Experimental evaluation of radar jammers #131",
+    "abstract": "We present a detailed study of radar jammers with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2024,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "ELECTRONIC_ATTACK",
+    "subSubCategoryId": "RADAR_JAMMERS"
+  },
+  {
+    "id": "RP0132",
+    "title": "Experimental evaluation of multi\u2011sensor fusion engines #132",
+    "abstract": "We present a detailed study of multi\u2011sensor fusion engines with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2017,
+    "venue": "IEEE Transactions on Aerospace",
+    "mainCategoryId": "C4ISR_DEFENCE_AI",
+    "subCategoryId": "ISR_MULTI_SENSOR_FUSION",
+    "subSubCategoryId": "MULTI_SENSOR_FUSION_ENGINES"
+  },
+  {
+    "id": "RP0133",
+    "title": "Experimental evaluation of quantum gravimeters #133",
+    "abstract": "We present a detailed study of quantum gravimeters with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2023,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_SENSING",
+    "subSubCategoryId": "QUANTUM_GRAVIMETERS"
+  },
+  {
+    "id": "RP0134",
+    "title": "Experimental evaluation of stealth uav #134",
+    "abstract": "We present a detailed study of stealth uav with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2025,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "UAV_DRONES",
+    "subSubCategoryId": "STEALTH_UAV"
+  },
+  {
+    "id": "RP0135",
+    "title": "Experimental evaluation of unmanned surface vessels (usv) #135",
+    "abstract": "We present a detailed study of unmanned surface vessels (usv) with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2013,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "USV_UUV",
+    "subSubCategoryId": "USV"
+  },
+  {
+    "id": "RP0136",
+    "title": "Experimental evaluation of signal interception systems #136",
+    "abstract": "We present a detailed study of signal interception systems with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2013,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "ELECTRONIC_SUPPORT",
+    "subSubCategoryId": "SIGNAL_INTERCEPTION"
+  },
+  {
+    "id": "RP0137",
+    "title": "Experimental evaluation of reconnaissance ugv #137",
+    "abstract": "We present a detailed study of reconnaissance ugv with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2013,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "UGV_GROUND_ROBOTS",
+    "subSubCategoryId": "RECON_UGV"
+  },
+  {
+    "id": "RP0138",
+    "title": "Experimental evaluation of spectrum monitoring systems #138",
+    "abstract": "We present a detailed study of spectrum monitoring systems with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2020,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "ELECTRONIC_SUPPORT",
+    "subSubCategoryId": "SPECTRUM_MONITORING"
+  },
+  {
+    "id": "RP0139",
+    "title": "Experimental evaluation of cognitive radios #139",
+    "abstract": "We present a detailed study of cognitive radios with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2022,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "SPECTRUM_MANAGEMENT",
+    "subSubCategoryId": "COGNITIVE_RADIOS"
+  },
+  {
+    "id": "RP0140",
+    "title": "Experimental evaluation of short\u2011range ballistic missiles #140",
+    "abstract": "We present a detailed study of short\u2011range ballistic missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2025,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "BALLISTIC_MISSILES",
+    "subSubCategoryId": "SRBM"
+  },
+  {
+    "id": "RP0141",
+    "title": "Experimental evaluation of medium\u2011range ballistic missiles #141",
+    "abstract": "We present a detailed study of medium\u2011range ballistic missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2022,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "BALLISTIC_MISSILES",
+    "subSubCategoryId": "MRBM"
+  },
+  {
+    "id": "RP0142",
+    "title": "Experimental evaluation of cognitive radios #142",
+    "abstract": "We present a detailed study of cognitive radios with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2013,
+    "venue": "IEEE Transactions on Aerospace",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "SPECTRUM_MANAGEMENT",
+    "subSubCategoryId": "COGNITIVE_RADIOS"
+  },
+  {
+    "id": "RP0143",
+    "title": "Experimental evaluation of remotely operated vehicles (rov) #143",
+    "abstract": "We present a detailed study of remotely operated vehicles (rov) with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2024,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "USV_UUV",
+    "subSubCategoryId": "ROV"
+  },
+  {
+    "id": "RP0144",
+    "title": "Experimental evaluation of gps spoofing & jamming #144",
+    "abstract": "We present a detailed study of gps spoofing & jamming with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2023,
+    "venue": "IEEE Transactions on Aerospace",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "ELECTRONIC_ATTACK",
+    "subSubCategoryId": "GPS_SPOOFING_JAMMING"
+  },
+  {
+    "id": "RP0145",
+    "title": "Experimental evaluation of passive rf sensors #145",
+    "abstract": "We present a detailed study of passive rf sensors with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2018,
+    "venue": "IEEE Transactions on Aerospace",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "PASSIVE_SENSORS",
+    "subSubCategoryId": "PASSIVE_RF_SENSORS"
+  },
+  {
+    "id": "RP0146",
+    "title": "Experimental evaluation of defensive cyber platforms #146",
+    "abstract": "We present a detailed study of defensive cyber platforms with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2015,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "CYBER_SYSTEMS",
+    "subSubCategoryId": "DEFENSIVE_CYBER"
+  },
+  {
+    "id": "RP0147",
+    "title": "Experimental evaluation of medium\u2011range ballistic missiles #147",
+    "abstract": "We present a detailed study of medium\u2011range ballistic missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2017,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "BALLISTIC_MISSILES",
+    "subSubCategoryId": "MRBM"
+  },
+  {
+    "id": "RP0148",
+    "title": "Experimental evaluation of target recognition systems #148",
+    "abstract": "We present a detailed study of target recognition systems with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2014,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "C4ISR_DEFENCE_AI",
+    "subCategoryId": "ISR_MULTI_SENSOR_FUSION",
+    "subSubCategoryId": "TARGET_RECOGNITION"
+  },
+  {
+    "id": "RP0149",
+    "title": "Experimental evaluation of logistics ugv #149",
+    "abstract": "We present a detailed study of logistics ugv with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2019,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "UGV_GROUND_ROBOTS",
+    "subSubCategoryId": "LOGISTICS_UGV"
+  },
+  {
+    "id": "RP0150",
+    "title": "Experimental evaluation of short\u2011range ballistic missiles #150",
+    "abstract": "We present a detailed study of short\u2011range ballistic missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2013,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "BALLISTIC_MISSILES",
+    "subSubCategoryId": "SRBM"
+  },
+  {
+    "id": "RP0151",
+    "title": "Experimental evaluation of short\u2011range ballistic missiles #151",
+    "abstract": "We present a detailed study of short\u2011range ballistic missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2025,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "BALLISTIC_MISSILES",
+    "subSubCategoryId": "SRBM"
+  },
+  {
+    "id": "RP0152",
+    "title": "Experimental evaluation of cognitive radios #152",
+    "abstract": "We present a detailed study of cognitive radios with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2015,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "SPECTRUM_MANAGEMENT",
+    "subSubCategoryId": "COGNITIVE_RADIOS"
+  },
+  {
+    "id": "RP0153",
+    "title": "Experimental evaluation of active radar homing air\u2011to\u2011air missiles #153",
+    "abstract": "We present a detailed study of active radar homing air\u2011to\u2011air missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2021,
+    "venue": "IEEE Transactions on Aerospace",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "AIR_TO_AIR_MISSILES",
+    "subSubCategoryId": "ACTIVE_RADAR_HOMING_AAM"
+  },
+  {
+    "id": "RP0154",
+    "title": "Experimental evaluation of counter\u2011stealth radar #154",
+    "abstract": "We present a detailed study of counter\u2011stealth radar with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2016,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "RADAR_SYSTEMS",
+    "subSubCategoryId": "COUNTER_STEALTH_RADAR"
+  },
+  {
+    "id": "RP0155",
+    "title": "Experimental evaluation of radar jammers #155",
+    "abstract": "We present a detailed study of radar jammers with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2020,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "ELECTRONIC_ATTACK",
+    "subSubCategoryId": "RADAR_JAMMERS"
+  },
+  {
+    "id": "RP0156",
+    "title": "Experimental evaluation of passive rf sensors #156",
+    "abstract": "We present a detailed study of passive rf sensors with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2023,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "PASSIVE_SENSORS",
+    "subSubCategoryId": "PASSIVE_RF_SENSORS"
+  },
+  {
+    "id": "RP0157",
+    "title": "Experimental evaluation of thermal imaging sensors #157",
+    "abstract": "We present a detailed study of thermal imaging sensors with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2020,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "EO_IR_SENSORS",
+    "subSubCategoryId": "THERMAL_IMAGERS"
+  },
+  {
+    "id": "RP0158",
+    "title": "Experimental evaluation of air\u2011launched cruise missiles #158",
+    "abstract": "We present a detailed study of air\u2011launched cruise missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2021,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "CRUISE_MISSILES",
+    "subSubCategoryId": "AIR_LAUNCHED_CRUISE"
+  },
+  {
+    "id": "RP0159",
+    "title": "Experimental evaluation of quantum machine learning algorithms #159",
+    "abstract": "We present a detailed study of quantum machine learning algorithms with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2024,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_COMPUTING",
+    "subSubCategoryId": "QUANTUM_ML"
+  },
+  {
+    "id": "RP0160",
+    "title": "Experimental evaluation of supersonic cruise missiles #160",
+    "abstract": "We present a detailed study of supersonic cruise missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2013,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "CRUISE_MISSILES",
+    "subSubCategoryId": "SUPERSONIC_CRUISE"
+  },
+  {
+    "id": "RP0161",
+    "title": "Experimental evaluation of quantum cryptanalysis and pqc impact #161",
+    "abstract": "We present a detailed study of quantum cryptanalysis and pqc impact with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2025,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_COMPUTING",
+    "subSubCategoryId": "QUANTUM_CRYPTANALYSIS"
+  },
+  {
+    "id": "RP0162",
+    "title": "Experimental evaluation of supersonic cruise missiles #162",
+    "abstract": "We present a detailed study of supersonic cruise missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2020,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "CRUISE_MISSILES",
+    "subSubCategoryId": "SUPERSONIC_CRUISE"
+  },
+  {
+    "id": "RP0163",
+    "title": "Experimental evaluation of reconnaissance ugv #163",
+    "abstract": "We present a detailed study of reconnaissance ugv with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2019,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "UGV_GROUND_ROBOTS",
+    "subSubCategoryId": "RECON_UGV"
+  },
+  {
+    "id": "RP0164",
+    "title": "Experimental evaluation of within\u2011visual\u2011range air\u2011to\u2011air missiles #164",
+    "abstract": "We present a detailed study of within\u2011visual\u2011range air\u2011to\u2011air missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2018,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "AIR_TO_AIR_MISSILES",
+    "subSubCategoryId": "WVR_AAM"
+  },
+  {
+    "id": "RP0165",
+    "title": "Experimental evaluation of land\u2011attack cruise missiles #165",
+    "abstract": "We present a detailed study of land\u2011attack cruise missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2018,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "CRUISE_MISSILES",
+    "subSubCategoryId": "LAND_ATTACK_CRUISE"
+  },
+  {
+    "id": "RP0166",
+    "title": "Experimental evaluation of long\u2011range surface\u2011to\u2011air missiles #166",
+    "abstract": "We present a detailed study of long\u2011range surface\u2011to\u2011air missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2019,
+    "venue": "IEEE Transactions on Aerospace",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "SURFACE_TO_AIR_MISSILES",
+    "subSubCategoryId": "LONG_RANGE_SAM"
+  },
+  {
+    "id": "RP0167",
+    "title": "Experimental evaluation of naval multi\u2011function radar #167",
+    "abstract": "We present a detailed study of naval multi\u2011function radar with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2015,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "RADAR_SYSTEMS",
+    "subSubCategoryId": "NAVAL_MF_RADAR"
+  },
+  {
+    "id": "RP0168",
+    "title": "Experimental evaluation of thermal imaging sensors #168",
+    "abstract": "We present a detailed study of thermal imaging sensors with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2020,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "EO_IR_SENSORS",
+    "subSubCategoryId": "THERMAL_IMAGERS"
+  },
+  {
+    "id": "RP0169",
+    "title": "Experimental evaluation of reconnaissance ugv #169",
+    "abstract": "We present a detailed study of reconnaissance ugv with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2015,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "UGV_GROUND_ROBOTS",
+    "subSubCategoryId": "RECON_UGV"
+  },
+  {
+    "id": "RP0170",
+    "title": "Experimental evaluation of free\u2011space qkd #170",
+    "abstract": "We present a detailed study of free\u2011space qkd with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2016,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_COMMUNICATION",
+    "subSubCategoryId": "FREE_SPACE_QKD"
+  },
+  {
+    "id": "RP0171",
+    "title": "Experimental evaluation of free\u2011space qkd #171",
+    "abstract": "We present a detailed study of free\u2011space qkd with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2016,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_COMMUNICATION",
+    "subSubCategoryId": "FREE_SPACE_QKD"
+  },
+  {
+    "id": "RP0172",
+    "title": "Experimental evaluation of active radar homing air\u2011to\u2011air missiles #172",
+    "abstract": "We present a detailed study of active radar homing air\u2011to\u2011air missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2024,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "AIR_TO_AIR_MISSILES",
+    "subSubCategoryId": "ACTIVE_RADAR_HOMING_AAM"
+  },
+  {
+    "id": "RP0173",
+    "title": "Experimental evaluation of quantum accelerometers #173",
+    "abstract": "We present a detailed study of quantum accelerometers with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2014,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_SENSING",
+    "subSubCategoryId": "QUANTUM_ACCELEROMETERS"
+  },
+  {
+    "id": "RP0174",
+    "title": "Experimental evaluation of high\u2011power microwave systems #174",
+    "abstract": "We present a detailed study of high\u2011power microwave systems with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2021,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "ELECTRONIC_ATTACK",
+    "subSubCategoryId": "HPM_SYSTEMS"
+  },
+  {
+    "id": "RP0175",
+    "title": "Experimental evaluation of long\u2011endurance uav (male/hale) #175",
+    "abstract": "We present a detailed study of long\u2011endurance uav (male/hale) with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2025,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "UAV_DRONES",
+    "subSubCategoryId": "LONG_ENDURANCE_UAV"
+  },
+  {
+    "id": "RP0176",
+    "title": "Experimental evaluation of acoustic sensor networks #176",
+    "abstract": "We present a detailed study of acoustic sensor networks with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2023,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "PASSIVE_SENSORS",
+    "subSubCategoryId": "ACOUSTIC_NETWORKS"
+  },
+  {
+    "id": "RP0177",
+    "title": "Experimental evaluation of medium\u2011range surface\u2011to\u2011air missiles #177",
+    "abstract": "We present a detailed study of medium\u2011range surface\u2011to\u2011air missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2020,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "SURFACE_TO_AIR_MISSILES",
+    "subSubCategoryId": "MEDIUM_RANGE_SAM"
+  },
+  {
+    "id": "RP0178",
+    "title": "Experimental evaluation of medium\u2011range ballistic missiles #178",
+    "abstract": "We present a detailed study of medium\u2011range ballistic missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2013,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "BALLISTIC_MISSILES",
+    "subSubCategoryId": "MRBM"
+  },
+  {
+    "id": "RP0179",
+    "title": "Experimental evaluation of sensor anomaly detection ai #179",
+    "abstract": "We present a detailed study of sensor anomaly detection ai with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2021,
+    "venue": "IEEE Transactions on Aerospace",
+    "mainCategoryId": "C4ISR_DEFENCE_AI",
+    "subCategoryId": "DEFENCE_AI_ML",
+    "subSubCategoryId": "SENSOR_ANOMALY_DETECTION_AI"
+  },
+  {
+    "id": "RP0180",
+    "title": "Experimental evaluation of sensor anomaly detection ai #180",
+    "abstract": "We present a detailed study of sensor anomaly detection ai with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2014,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "C4ISR_DEFENCE_AI",
+    "subCategoryId": "DEFENCE_AI_ML",
+    "subSubCategoryId": "SENSOR_ANOMALY_DETECTION_AI"
+  },
+  {
+    "id": "RP0181",
+    "title": "Experimental evaluation of beyond\u2011visual\u2011range air\u2011to\u2011air missiles #181",
+    "abstract": "We present a detailed study of beyond\u2011visual\u2011range air\u2011to\u2011air missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2021,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "AIR_TO_AIR_MISSILES",
+    "subSubCategoryId": "BVR_AAM"
+  },
+  {
+    "id": "RP0182",
+    "title": "Experimental evaluation of mine\u2011countermeasure unmanned systems #182",
+    "abstract": "We present a detailed study of mine\u2011countermeasure unmanned systems with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2018,
+    "venue": "IEEE Transactions on Aerospace",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "USV_UUV",
+    "subSubCategoryId": "MCM_UNMANNED"
+  },
+  {
+    "id": "RP0183",
+    "title": "Experimental evaluation of quantum simulation for materials & weapons #183",
+    "abstract": "We present a detailed study of quantum simulation for materials & weapons with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2021,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_COMPUTING",
+    "subSubCategoryId": "QUANTUM_SIMULATION"
+  },
+  {
+    "id": "RP0184",
+    "title": "Experimental evaluation of quantum gravimeters #184",
+    "abstract": "We present a detailed study of quantum gravimeters with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2018,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_SENSING",
+    "subSubCategoryId": "QUANTUM_GRAVIMETERS"
+  },
+  {
+    "id": "RP0185",
+    "title": "Experimental evaluation of spectrum monitoring systems #185",
+    "abstract": "We present a detailed study of spectrum monitoring systems with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2015,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "ELECTRONIC_SUPPORT",
+    "subSubCategoryId": "SPECTRUM_MONITORING"
+  },
+  {
+    "id": "RP0186",
+    "title": "Experimental evaluation of quantum magnetometers #186",
+    "abstract": "We present a detailed study of quantum magnetometers with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2016,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_SENSING",
+    "subSubCategoryId": "QUANTUM_MAGNETOMETERS"
+  },
+  {
+    "id": "RP0187",
+    "title": "Experimental evaluation of multi\u2011sensor fusion engines #187",
+    "abstract": "We present a detailed study of multi\u2011sensor fusion engines with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2022,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "C4ISR_DEFENCE_AI",
+    "subCategoryId": "ISR_MULTI_SENSOR_FUSION",
+    "subSubCategoryId": "MULTI_SENSOR_FUSION_ENGINES"
+  },
+  {
+    "id": "RP0188",
+    "title": "Experimental evaluation of integrated air defence c2 #188",
+    "abstract": "We present a detailed study of integrated air defence c2 with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2016,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "C4ISR_DEFENCE_AI",
+    "subCategoryId": "BATTLE_MANAGEMENT_SYSTEMS",
+    "subSubCategoryId": "INTEGRATED_AD_C2"
+  },
+  {
+    "id": "RP0189",
+    "title": "Experimental evaluation of anti\u2011ship cruise missiles #189",
+    "abstract": "We present a detailed study of anti\u2011ship cruise missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2016,
+    "venue": "Military Robotics Review",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "CRUISE_MISSILES",
+    "subSubCategoryId": "ANTI_SHIP_CRUISE"
+  },
+  {
+    "id": "RP0190",
+    "title": "Experimental evaluation of thermal imaging sensors #190",
+    "abstract": "We present a detailed study of thermal imaging sensors with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2020,
+    "venue": "IEEE Transactions on Aerospace",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "EO_IR_SENSORS",
+    "subSubCategoryId": "THERMAL_IMAGERS"
+  },
+  {
+    "id": "RP0191",
+    "title": "Experimental evaluation of real\u2011time command dashboards #191",
+    "abstract": "We present a detailed study of real\u2011time command dashboards with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2020,
+    "venue": "Defence Technology Letters",
+    "mainCategoryId": "C4ISR_DEFENCE_AI",
+    "subCategoryId": "BATTLE_MANAGEMENT_SYSTEMS",
+    "subSubCategoryId": "REALTIME_COMMAND_DASHBOARDS"
+  },
+  {
+    "id": "RP0192",
+    "title": "Experimental evaluation of quantum machine learning algorithms #192",
+    "abstract": "We present a detailed study of quantum machine learning algorithms with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2022,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_COMPUTING",
+    "subSubCategoryId": "QUANTUM_ML"
+  },
+  {
+    "id": "RP0193",
+    "title": "Experimental evaluation of unmanned surface vessels (usv) #193",
+    "abstract": "We present a detailed study of unmanned surface vessels (usv) with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2013,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "USV_UUV",
+    "subSubCategoryId": "USV"
+  },
+  {
+    "id": "RP0194",
+    "title": "Experimental evaluation of unmanned surface vessels (usv) #194",
+    "abstract": "We present a detailed study of unmanned surface vessels (usv) with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2021,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "UNMANNED_AUTONOMOUS_SYSTEMS",
+    "subCategoryId": "USV_UUV",
+    "subSubCategoryId": "USV"
+  },
+  {
+    "id": "RP0195",
+    "title": "Experimental evaluation of air\u2011launched cruise missiles #195",
+    "abstract": "We present a detailed study of air\u2011launched cruise missiles with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2024,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "MISSILE_SYSTEMS",
+    "subCategoryId": "CRUISE_MISSILES",
+    "subSubCategoryId": "AIR_LAUNCHED_CRUISE"
+  },
+  {
+    "id": "RP0196",
+    "title": "Experimental evaluation of passive rf sensors #196",
+    "abstract": "We present a detailed study of passive rf sensors with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2019,
+    "venue": "Quantum Information Processing",
+    "mainCategoryId": "RADAR_SENSOR_SYSTEMS",
+    "subCategoryId": "PASSIVE_SENSORS",
+    "subSubCategoryId": "PASSIVE_RF_SENSORS"
+  },
+  {
+    "id": "RP0197",
+    "title": "Experimental evaluation of radar jammers #197",
+    "abstract": "We present a detailed study of radar jammers with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2016,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "ELECTRONIC_ATTACK",
+    "subSubCategoryId": "RADAR_JAMMERS"
+  },
+  {
+    "id": "RP0198",
+    "title": "Experimental evaluation of quantum simulation for materials & weapons #198",
+    "abstract": "We present a detailed study of quantum simulation for materials & weapons with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2017,
+    "venue": "AIAA Conference",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_COMPUTING",
+    "subSubCategoryId": "QUANTUM_SIMULATION"
+  },
+  {
+    "id": "RP0199",
+    "title": "Experimental evaluation of quantum optimisation for logistics / routing #199",
+    "abstract": "We present a detailed study of quantum optimisation for logistics / routing with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2020,
+    "venue": "IEEE Transactions on Aerospace",
+    "mainCategoryId": "QUANTUM_TECHNOLOGIES",
+    "subCategoryId": "QUANTUM_COMPUTING",
+    "subSubCategoryId": "QUANTUM_OPTIMISATION"
+  },
+  {
+    "id": "RP0200",
+    "title": "Experimental evaluation of malware / exploit frameworks #200",
+    "abstract": "We present a detailed study of malware / exploit frameworks with focus on control algorithms, system modelling and performance under contested operational conditions relevant to defence applications.",
+    "year": 2016,
+    "venue": "DRDO Journal",
+    "mainCategoryId": "ELECTRONIC_WARFARE_CYBER",
+    "subCategoryId": "CYBER_SYSTEMS",
+    "subSubCategoryId": "MALWARE_FRAMEWORKS"
+  }
+]

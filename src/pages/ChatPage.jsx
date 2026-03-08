@@ -10,8 +10,8 @@ import { motion, AnimatePresence } from "framer-motion";
  * - Modern UI, full-width chat (no sidebar)
  */
 
-// NOTE: API key intentionally kept exactly as you provided.
-const API_KEY = "AIzaSyAKIHGHOx-GUtFLzoVBIO1-C498g7_GqBw";
+// NOTE: Set your API key in the .env file instead.
+const API_KEY = import.meta.env.VITE_GROQ_API_KEY || "";
 
 export default function ChatPage() {
     const [messages, setMessages] = useState([
@@ -37,17 +37,19 @@ export default function ChatPage() {
 
         try {
             const resp = await fetch(
-                `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${API_KEY}`,
+                "https://api.groq.com/openai/v1/chat/completions",
                 {
                     method: "POST",
-                    headers: { "Content-Type": "application/json" },
+                    headers: {
+                        "Content-Type": "application/json",
+                        "Authorization": `Bearer ${API_KEY}`
+                    },
                     body: JSON.stringify({
-                        contents: [
+                        model: "llama-3.3-70b-versatile",
+                        messages: [
                             {
                                 role: "user",
-                                parts: [
-                                    {
-                                        text: `${userText}
+                                content: `${userText}
 
 ---------------------------
 🔧 STRICT INSTRUCTION:
@@ -92,8 +94,6 @@ RULES:
 • Do NOT remove the blank lines.
 • No markdown, no JSON, no code blocks.
 ---------------------------`
-                                    }
-                                ]
                             }
                         ]
                     })
@@ -102,7 +102,7 @@ RULES:
 
             if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
             const data = await resp.json();
-            const botReply = data?.candidates?.[0]?.content?.parts?.[0]?.text || "No response";
+            const botReply = data.choices?.[0]?.message?.content || "No response";
             addMessage({ text: botReply, sender: "bot", time: new Date().toISOString() });
         } catch (err) {
             addMessage({

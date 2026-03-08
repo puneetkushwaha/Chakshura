@@ -13,6 +13,64 @@ import {
   Line,
 } from "recharts";
 
+const dummyCompanies = [
+  {
+    _id: "comp_001",
+    companyId: "C-942X",
+    name: "Anduril Industries",
+    techArea: "Autonomous Systems",
+    marketShare: 12.5,
+    funding: 2800,
+    govInv: 850,
+    stage: "Series F",
+    latestActivity: "Awarded $250M DoD contract for counter-UAS systems."
+  },
+  {
+    _id: "comp_002",
+    companyId: "C-881Y",
+    name: "Shield AI",
+    techArea: "Enterprise AI",
+    marketShare: 8.2,
+    funding: 1100,
+    govInv: 420,
+    stage: "Series F",
+    latestActivity: "Successfully demonstrated Hivemind AI in multi-jet collaborative combat."
+  },
+  {
+    _id: "comp_003",
+    companyId: "C-112Z",
+    name: "HawkEye 360",
+    techArea: "Space/Satellite",
+    marketShare: 15.0,
+    funding: 380,
+    govInv: 120,
+    stage: "Series D",
+    latestActivity: "Launched Cluster 7 satellites to expand RF mapping capabilities."
+  },
+  {
+    _id: "comp_004",
+    companyId: "C-305A",
+    name: "Epirus",
+    techArea: "Directed Energy",
+    marketShare: 22.4,
+    funding: 300,
+    govInv: 150,
+    stage: "Series C",
+    latestActivity: "Delivered latest Leonidas high-power microwave system prototype to US Army."
+  },
+  {
+    _id: "comp_005",
+    companyId: "C-599B",
+    name: "Palantir Technologies",
+    techArea: "Enterprise AI",
+    marketShare: 35.8,
+    funding: 3200,
+    govInv: 2500,
+    stage: "Public",
+    latestActivity: "Deployed AIP across new defense logistics commands."
+  }
+];
+
 // ------------------ LINE CHART: FUNDING MOMENTUM (STATIC) ------------------ //
 
 const fundingTrendData = [
@@ -55,10 +113,14 @@ const CompanyIntelligenceEngine = () => {
 
         const json = await res.json();
         // expecting { data: [...] }
-        setCompanies(json.data || []);
+        if (!json.data || json.data.length === 0) {
+          setCompanies(dummyCompanies);
+        } else {
+          setCompanies(json.data);
+        }
       } catch (err) {
         if (err.name !== "AbortError") {
-          setError(err.message || "Failed to load companies.");
+          setCompanies(dummyCompanies);
         }
       } finally {
         setLoading(false);

@@ -65,7 +65,7 @@ mongoose
 /**
  * POST /api/generate
  * Body: { prompt: "text..." }
- * Uses Google Generative Language REST endpoint (no SDK).
+ * Uses Groq API (OpenAI compatible).
  * Requires API_KEY in process.env.API_KEY
  */
 app.post("/api/generate", async (req, res) => {
@@ -79,59 +79,47 @@ app.post("/api/generate", async (req, res) => {
       return res.status(500).json({ error: "Server misconfiguration: API_KEY missing" });
     }
 
-    // Choose model - change if you have a different model name/permission
-    const model = "models/text-bison-001"; // conservative default; change to gemini if you have access
+    // Choose Groq model
+    const model = "llama-3.3-70b-versatile"; 
 
-    // Build request body for Generative Language API
+    // Build request body for Groq Chat Completions API
     const body = {
-      prompt: {
-        text: prompt
-      },
-      // optional parameters you can tune
+      model: model,
+      messages: [
+        {
+          role: "user",
+          content: prompt
+        }
+      ],
       temperature: 0.2,
-      max_output_tokens: 512
+      max_tokens: 512
     };
 
-    const url = `https://generativelanguage.googleapis.com/v1beta2/${model}:generate?key=${encodeURIComponent(apiKey)}`;
+    const url = "https://api.groq.com/openai/v1/chat/completions";
 
     const glRes = await fetch(url, {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
+      headers: {
+        "Content-Type": "application/json",
+        "Authorization": `Bearer ${apiKey}`
+      },
       body: JSON.stringify(body),
-      // no credentials; using API key in URL
     });
 
     if (!glRes.ok) {
       const errText = await glRes.text().catch(() => "");
-      console.error("[/api/generate] Generative API error:", glRes.status, errText);
-      return res.status(502).json({ error: `Generative API error: ${glRes.status}`, details: errText });
+      console.error("[/api/generate] Groq API error:", glRes.status, errText);
+      return res.status(502).json({ error: `Groq API error: ${glRes.status}`, details: errText });
     }
 
     const json = await glRes.json();
 
-    // Response parsing: generative API returns candidates/outputs depending on version.
-    // We try common shapes and fallback to stringifying part of the response.
     let text = "";
 
-    // v1beta2: `candidates` often present at json.candidates[0].output or json.output[0].content
-    if (Array.isArray(json.candidates) && json.candidates.length > 0) {
-      // candidate may contain .content array with .text, or .output_text
-      const cand = json.candidates[0];
-      if (cand.output_text) text = cand.output_text;
-      else if (Array.isArray(cand.content)) {
-        text = cand.content.map(c => c.text || "").join("");
-      } else {
-        text = JSON.stringify(cand).slice(0, 2000);
-      }
-    } else if (Array.isArray(json.output) && json.output.length > 0) {
-      // sometimes it's json.output[0].content -> [{text: "..."}]
-      const o = json.output[0];
-      if (Array.isArray(o?.content)) text = o.content.map(c => c.text || "").join("");
-      else text = JSON.stringify(o).slice(0, 2000);
-    } else if (json?.output_text) {
-      text = json.output_text;
+    // Parse Groq response
+    if (json.choices && json.choices.length > 0) {
+      text = json.choices[0].message.content;
     } else {
-      // fallback: stringify first 3000 chars of response for debugging
       text = JSON.stringify(json).slice(0, 3000);
     }
 

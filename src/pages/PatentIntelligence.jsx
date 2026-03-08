@@ -2,6 +2,65 @@
 import { useEffect, useState, useMemo } from "react";
 import { fetchPatents, searchPatents, fetchPatentById } from "../services/api";
 
+const dummyPatents = [
+  {
+    _id: "pat_001",
+    title: "Hypersonic Glide Vehicle Thermal Protection System",
+    status: "Granted",
+    techDomain: "Aerospace",
+    country: "US",
+    filingDate: "2023-05-12T00:00:00Z",
+    impactScore: 9.4,
+    trl: 5,
+    keywords: ["hypersonic", "thermal", "ablative", "re-entry"],
+    assignee: "Lockheed Martin Corp",
+    tldr: "A novel ablative composite material for sustained atmospheric flight at Mach 5+.",
+    summary: "This patent describes a multi-layered thermal protection system utilizing a carbon-carbon structural matrix infused with a proprietary ablative resin. Designed specifically for the extreme thermal loads encountered during hypersonic glide phases, it offers a 30% reduction in weight compared to legacy TPS materials.",
+  },
+  {
+    _id: "pat_002",
+    title: "Swarm UAV Coordination Algorithm via Quantum Cryptography",
+    status: "Pending",
+    techDomain: "Autonomous Systems",
+    country: "UK",
+    filingDate: "2024-01-18T00:00:00Z",
+    impactScore: 8.7,
+    trl: 4,
+    keywords: ["UAV", "swarm", "quantum", "mesh-network"],
+    assignee: "BAE Systems PLC",
+    tldr: "Secure mesh-networking algorithm for autonomous drone swarms using QKD.",
+    summary: "A method for establishing a localized, jam-resistant mesh network among a swarm of unmanned aerial vehicles. The system leverages miniaturized Quantum Key Distribution (QKD) modules to achieve provably secure command and control links even in highly contested RF environments.",
+  },
+  {
+    _id: "pat_003",
+    title: "Solid-State Directed Energy Emitter with Adaptive Optics",
+    status: "Granted",
+    techDomain: "Directed Energy",
+    country: "DE",
+    filingDate: "2022-11-04T00:00:00Z",
+    impactScore: 9.1,
+    trl: 6,
+    keywords: ["laser", "solid-state", "adaptive optics", "C-UAS"],
+    assignee: "Rheinmetall Waffe Munition GmbH",
+    tldr: "High-energy solid state laser with real-time atmospheric compensation.",
+    summary: "This invention relates to a modular solid-state laser weapon system incorporating an advanced adaptive optics deformable mirror. The system calculates atmospheric turbulence and thermal blooming in real-time, pre-distorting the outgoing beam to maintain focus on fast-moving targets such as incoming munitions or UAVs.",
+  },
+  {
+    _id: "pat_004",
+    title: "Cognitive Electronic Warfare Suite for Next-Gen Fighters",
+    status: "Published",
+    techDomain: "Electronic Warfare",
+    country: "US",
+    filingDate: "2023-09-22T00:00:00Z",
+    impactScore: 8.9,
+    trl: 7,
+    keywords: ["AI", "EW", "cognitive", "radar"],
+    assignee: "Northrop Grumman Systems",
+    tldr: "Machine-learning driven EW system capable of classifying and jamming unknown radar waveforms.",
+    summary: "An electronic countermeasure system that utilizes a deep neural network to analyze intercepted RF signals in real-time. Unlike traditional library-based EW systems, this cognitive suite can synthesize novel jamming profiles on-the-fly against previously unseen agile radar emitters.",
+  }
+];
+
 function formatDate(dateString) {
   if (!dateString) return "—";
   const d = new Date(dateString);
@@ -340,13 +399,19 @@ function PatentIntelligence() {
         });
 
         if (!cancelled) {
-          setPatents(res.data || []);
-          setPagination(res.pagination || pagination);
+          if (!res.data || res.data.length === 0) {
+            setPatents(dummyPatents);
+            setPagination({ ...pagination, total: dummyPatents.length, page: 1, hasMore: false });
+          } else {
+            setPatents(res.data);
+            setPagination(res.pagination || pagination);
+          }
         }
       } catch (err) {
         console.error(err);
         if (!cancelled) {
-          setError(err.message || "Failed to load patents");
+          setPatents(dummyPatents);
+          setPagination({ ...pagination, total: dummyPatents.length, page: 1, hasMore: false });
         }
       } finally {
         if (!cancelled) setLoading(false);
@@ -373,10 +438,26 @@ function PatentIntelligence() {
       setSearchMode(true);
       setError("");
       const res = await searchPatents(searchQuery.trim(), 20);
-      setPatents(res.data || []);
+      if (!res.data || res.data.length === 0) {
+        const q = searchQuery.trim().toLowerCase();
+        const filtered = dummyPatents.filter(p => 
+          p.title.toLowerCase().includes(q) || 
+          (p.techDomain && p.techDomain.toLowerCase().includes(q)) || 
+          (p.keywords && p.keywords.some(k => k.toLowerCase().includes(q)))
+        );
+        setPatents(filtered);
+      } else {
+        setPatents(res.data);
+      }
     } catch (err) {
       console.error(err);
-      setError(err.message || "Failed to search patents");
+      const q = searchQuery.trim().toLowerCase();
+      const filtered = dummyPatents.filter(p => 
+        p.title.toLowerCase().includes(q) || 
+        (p.techDomain && p.techDomain.toLowerCase().includes(q)) || 
+        (p.keywords && p.keywords.some(k => k.toLowerCase().includes(q)))
+      );
+      setPatents(filtered);
     } finally {
       setSearchLoading(false);
     }
@@ -392,10 +473,16 @@ function PatentIntelligence() {
     try {
       setDetailLoading(true);
       const full = await fetchPatentById(id);
-      setSelectedPatent(full);
+      if (!full || Object.keys(full).length === 0) {
+        const fallback = dummyPatents.find(p => p._id === id);
+        setSelectedPatent(fallback || null);
+      } else {
+        setSelectedPatent(full);
+      }
     } catch (err) {
       console.error(err);
-      setError(err.message || "Failed to load patent detail");
+      const fallback = dummyPatents.find(p => p._id === id);
+      setSelectedPatent(fallback || null);
     } finally {
       setDetailLoading(false);
     }
